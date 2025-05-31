@@ -1,0 +1,13 @@
+a = input(int)
+x = input(str)
+y = input(float)
+z = input(bool)
+print (a)
+print (x)
+print (y)
+print (z)
+
+type (a)
+type (x)
+type (y)
+type (z)
